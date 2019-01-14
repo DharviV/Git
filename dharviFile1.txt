@@ -3,3 +3,7 @@ Hi, welcome to the tutorial!
 Making changes..
 
 Git exercise 1!
+
+Conflict induction!!
+
+Conflict induction 2!
